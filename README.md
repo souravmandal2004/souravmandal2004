@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravmandal2004&label=Profile%20views&color=0e75b6&style=flat" alt="souravmandal2004" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/souravmandal2004](https://github.com/souravmandal2004)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **SpringBoot**
 
 - 📫 How to reach me **mandalsourav2004@gmail.com**
 
